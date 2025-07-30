@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duffo
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Python,Powershell and bash scripting
+- 👀 Unreal Dev
+- 🌱 creating games and providing tools for developers 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
